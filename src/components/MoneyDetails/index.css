@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.moneyDetails-con{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.balance-con {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+  width: 15%;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.bal {
+  border: 1px solid #84cc16;
+  background-color: #ecfccb;
+}
+.income {
+  border: 1px solid #06b6d4;
+  background-color: #cffafe;
+}
+.exp {
+  border: 1px solid #7c3aed;
+  background-color: #ede9fe;
+}
+
+.img {
+  height: 60px;
+}
